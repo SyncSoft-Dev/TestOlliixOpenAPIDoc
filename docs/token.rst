@@ -9,7 +9,7 @@ Authentication
 Generate Token
 --------------
 
-Before you can start using the Shippo API, you’ll need to register for a free Shippo account and get your API live token from the API page of the dashboard.
+Before you can start using the Olliix API, you’ll need to register for a free Olliix account and get your API live token from the API page of the dashboard.
 
 To create production shipping labels and make live requests, you must authenticate your requests using the live token. All code samples in these tutorials use your test token.
 
